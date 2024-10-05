@@ -12,7 +12,7 @@ This project is a chatbot built using Python, Keras, and TensorFlow, integrated 
 ## Project Structure
 
 - **intents.json**: Contains the training data (intents and patterns).
-- **Modified_Code.py**: The main Python file that includes data preprocessing, model training, and chatbot response generation.
+- **Chatbot Code.ipynb**: The main Python file that includes data preprocessing, model training, and chatbot response generation.
 - **words.pkl** and **classes.pkl**: Pickle files used to store the vocabulary and intent categories after preprocessing.
 
 ## Technologies Used
